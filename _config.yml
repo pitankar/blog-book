@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Pit
+longtitle:        Piyush Itankar
+author:           Piyush Itankar
+email:            pitankar@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Traces of a wandering mind!
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://pitankar.github.io'
+baseurl:          '/blog-book'
 rss:              RSS
 
 # markdown render engine.
